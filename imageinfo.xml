@@ -1,0 +1,110 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="227" filedate="2018-02-13 22:41:07" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="60137" filedate="2018-02-18 12:59:23" width="485px" height="720px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-02-13 22:41:07" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="124992" filedate="2018-02-18 12:59:23" width="501px" height="720px">
+</image>
+<image path="images/map.jpg" filesize="111998" filedate="2018-02-18 12:59:23" width="720px" height="480px">
+</image>
+<image path="images/maph.png" filesize="418620" filedate="2018-02-17 21:07:15" width="2048px" height="1367px">
+</image>
+<image path="images/p012-1a.png" filesize="4530" filedate="2018-02-18 11:50:49" width="444px" height="86px">
+</image>
+<image path="images/p012-1b.png" filesize="2248" filedate="2018-02-18 11:50:49" width="276px" height="75px">
+</image>
+<image path="images/p012-1c.png" filesize="3418" filedate="2018-02-18 11:50:49" width="283px" height="71px">
+</image>
+<image path="images/p012-1d.png" filesize="4050" filedate="2018-02-18 11:50:49" width="310px" height="70px">
+</image>
+<image path="images/p012-1e.png" filesize="4118" filedate="2018-02-18 11:50:50" width="372px" height="78px">
+</image>
+<image path="images/p012-1f.png" filesize="3467" filedate="2018-02-18 11:50:50" width="349px" height="77px">
+</image>
+<image path="images/p012-1g.png" filesize="629" filedate="2018-02-18 11:50:50" width="243px" height="20px">
+</image>
+<image path="images/p012-1h.png" filesize="1011" filedate="2018-02-18 11:50:50" width="444px" height="23px">
+</image>
+<image path="images/p012.png" filesize="40006" filedate="2018-02-15 20:59:04" width="403px" height="457px">
+</image>
+<image path="images/p022.jpg" filesize="114761" filedate="2018-02-18 12:59:38" width="503px" height="720px">
+</image>
+<image path="images/p030.jpg" filesize="112750" filedate="2018-02-18 12:59:38" width="496px" height="720px">
+</image>
+<image path="images/p032.png" filesize="4355" filedate="2018-02-18 12:59:38" width="234px" height="153px">
+</image>
+<image path="images/p034.png" filesize="95102" filedate="2018-02-17 21:07:18" width="694px" height="610px">
+</image>
+<image path="images/p040.png" filesize="18024" filedate="2018-02-18 11:50:54" width="146px" height="561px">
+</image>
+<image path="images/p043.png" filesize="11372" filedate="2018-02-18 11:50:54" width="211px" height="287px">
+</image>
+<image path="images/p048.jpg" filesize="120782" filedate="2018-02-18 12:59:42" width="607px" height="720px">
+</image>
+<image path="images/p052.jpg" filesize="117834" filedate="2018-02-18 12:59:42" width="720px" height="419px">
+</image>
+<image path="images/p056.png" filesize="23928" filedate="2018-02-15 20:59:05" width="373px" height="360px">
+</image>
+<image path="images/p058-1.png" filesize="6719" filedate="2018-02-18 11:50:56" width="446px" height="113px">
+</image>
+<image path="images/p058-2.png" filesize="12946" filedate="2018-02-18 11:50:56" width="194px" height="299px">
+</image>
+<image path="images/p060a.png" filesize="4444" filedate="2018-02-18 11:50:56" width="135px" height="235px">
+</image>
+<image path="images/p060b.png" filesize="7938" filedate="2018-02-18 11:50:57" width="437px" height="147px">
+</image>
+<image path="images/p060c.png" filesize="11095" filedate="2018-02-18 11:50:57" width="452px" height="167px">
+</image>
+<image path="images/p060d.png" filesize="20954" filedate="2018-02-18 11:50:58" width="494px" height="310px">
+</image>
+<image path="images/p060e.png" filesize="4093" filedate="2018-02-18 11:51:00" width="99px" height="345px">
+</image>
+<image path="images/p060f.png" filesize="10208" filedate="2018-02-18 11:51:00" width="363px" height="159px">
+</image>
+<image path="images/p060h.png" filesize="10816" filedate="2018-02-18 11:51:00" width="562px" height="108px">
+</image>
+<image path="images/p072.jpg" filesize="125740" filedate="2018-02-18 12:59:47" width="720px" height="422px">
+</image>
+<image path="images/p100.jpg" filesize="150663" filedate="2018-02-18 12:59:47" width="720px" height="421px">
+</image>
+<image path="images/p118.jpg" filesize="104705" filedate="2018-02-18 12:59:47" width="720px" height="429px">
+</image>
+<image path="images/p140.jpg" filesize="89444" filedate="2018-02-18 12:59:47" width="720px" height="438px">
+</image>
+<image path="images/p154.jpg" filesize="115910" filedate="2018-02-18 12:59:48" width="720px" height="419px">
+</image>
+<image path="images/p254.jpg" filesize="125183" filedate="2018-02-18 12:59:48" width="720px" height="522px">
+</image>
+<image path="images/p294.jpg" filesize="108728" filedate="2018-02-18 12:59:48" width="720px" height="420px">
+</image>
+<image path="images/p316.jpg" filesize="122168" filedate="2018-02-18 12:59:48" width="511px" height="720px">
+</image>
+<image path="images/p360.jpg" filesize="87182" filedate="2018-02-18 12:59:48" width="720px" height="420px">
+</image>
+<image path="images/p400.jpg" filesize="140072" filedate="2018-02-18 12:59:49" width="424px" height="720px">
+</image>
+<image path="images/p432.jpg" filesize="122971" filedate="2018-02-18 12:59:49" width="720px" height="421px">
+</image>
+<image path="images/p438.jpg" filesize="97685" filedate="2018-02-18 12:59:49" width="720px" height="419px">
+</image>
+<image path="images/rbrace2.png" filesize="177" filedate="2018-02-11 14:50:30" width="12px" height="40px">
+</image>
+<image path="images/rbrace3.png" filesize="173" filedate="2018-02-11 14:50:30" width="14px" height="45px">
+</image>
+<image path="images/rbrace4.png" filesize="229" filedate="2018-02-11 14:50:30" width="16px" height="65px">
+</image>
+<image path="images/rbrace5.png" filesize="252" filedate="2018-02-11 14:50:30" width="18px" height="85px">
+</image>
+<image path="images/rbrace6.png" filesize="291" filedate="2018-02-11 14:50:31" width="24px" height="106px">
+</image>
+<image path="images/signature.png" filesize="2818" filedate="2018-02-13 20:34:44" width="378px" height="92px">
+</image>
+<image path="images/signature2.png" filesize="2318" filedate="2018-02-18 12:59:50" width="513px" height="99px">
+</image>
+<image path="images/titlepage.png" filesize="10446" filedate="2018-02-15 20:59:07" width="420px" height="720px">
+</image>
+</images>
